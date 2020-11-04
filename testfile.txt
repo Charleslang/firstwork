@@ -1,1 +1,5 @@
 I try to create a new file to test two git accounts ！
+
+---------------
+
+I add a part of content ！ Now, trying git push
